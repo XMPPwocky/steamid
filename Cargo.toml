@@ -1,0 +1,7 @@
+[package]
+name = "steamid"
+version = "0.1.0"
+authors = ["XMPPwocky <nttheis@gmail.com>"]
+license = "MIT"
+description = "Simple SteamID type."
+repository = "https://github.com/XMPPwocky/steamid"
